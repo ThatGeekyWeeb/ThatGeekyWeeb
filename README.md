@@ -6,6 +6,7 @@
 - 📫 How to reach me: Discord!!!!!! -> `@ThatWeeb#6702`
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I use Coreboot!
+- :blob: - I like blobmojis better, check them out [here!](https://github.com/C1710/blobmoji)
 
 <a href="https://github.com/skycocker/ThatGeekyWeeb/">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThatGeekyWeeb&bg_color=100,ffccfd,f593ba&layout=compact&theme=dracula&text_color=69d7a5">
@@ -19,6 +20,6 @@
 <a href="https://github.com/skycocker/chromebrew/">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skycocker&repo=Chromebrew&bg_color=100,ffccfd,f593ba&layout=compact&theme=dracula&text_color=9cfff2">
 </a>
-<a href="https://github.com/skycocker/chromebrew/">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diamondburned&repo=disblob&bg_color=100,ffccfd,f593ba&layout=compact&theme=dracula&text_color=9cfff2">
+<a href="https://github.com/C1710/blobmoji">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=C1710&repo=blobmoji&bg_color=100,ffccfd,f593ba&layout=compact&theme=dracula&text_color=9cfff2">
 </a>
