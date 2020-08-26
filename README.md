@@ -7,6 +7,9 @@
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I use Coreboot!
 - :blob: - I like blobmojis better, check them out [here!](https://github.com/C1710/blobmoji)
+- :thinking: - Money shouldn't exist
+  - > Ask me about my world view on Discord! :wink:
+
 
 <a href="https://github.com/skycocker/ThatGeekyWeeb/">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThatGeekyWeeb&bg_color=100,ffccfd,f593ba&layout=compact&theme=dracula&text_color=69d7a5">
