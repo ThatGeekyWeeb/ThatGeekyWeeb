@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Chromebrew](https://github.com/skycocker/chromebrew/)
+  - > Currently fixing fixing libressl, to allow usage with 3.10 kernel devices.
 - 🌱 I’m currently learning Ruby!
 - :collision: I’m looking to collaborate on, a non-rust-based Spotify client!
 - 📫 How to reach me: Discord!!!!!! -> `@ThatWeeb#6702`
