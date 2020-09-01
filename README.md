@@ -13,7 +13,7 @@
 > - [ ] Create automated package update service for `crew`
 > - [x] Remove `pip3` from `python3` - [`no-pip`](https://github.com/ThatGeekyWeeb/chromebrew/tree/no-pip)
 > - [x] Package `efl` (`libefl`)automated
-> - [x] RePackage
+> - [x] RePackage `curl` for usage with kernel 3.10 - [`curl`](https://github.com/ThatGeekyWeeb/chromebrew/blob/openssl-repack/packages/curl.rb)
 
 - 🌱 I’m currently learning Ruby!
 - :collision: I’m looking to collaborate on, a non-rust-based Spotify client!
