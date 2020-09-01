@@ -1,7 +1,19 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Chromebrew](https://github.com/skycocker/chromebrew/)
-  - > Currently fixing libressl, to allow usage with 3.10 kernel devices.
+> - [x] Repackage `openssl` libraies from system to replace `libressl` - [`openssl-repack`](https://github.com/ThatGeekyWeeb/chromebrew/tree/openssl-repack)
+> - [ ] Package `cava` - Missing kernel module
+> - [x] Package `librespot`
+> - [x] Package `netsurf`
+> - [x] Package `xfce4_terminal`
+> - [ ] Package `Xfce4`
+> - [ ] Package `gnome_boxes`
+> - [ ] Package `enlightment`
+> - [ ] Add dependency search for `templator`
+> - [ ] Create automated package update service from `crew`
+> - [x] Remove `pip` from `python3` - [`no-pip`](https://github.com/ThatGeekyWeeb/chromebrew/tree/no-pip)
+> - [x] Package `efl` (`libefl`)
+
 - 🌱 I’m currently learning Ruby!
 - :collision: I’m looking to collaborate on, a non-rust-based Spotify client!
 - 📫 How to reach me: Discord!!!!!! -> `@ThatWeeb#6702`
