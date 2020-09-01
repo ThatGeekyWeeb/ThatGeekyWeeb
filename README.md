@@ -12,13 +12,13 @@
 > - [ ] Add dependency search for `templator`
 > - [ ] Create automated package update service for `crew`
 > - [x] Remove `pip3` from `python3` - [`no-pip`](https://github.com/ThatGeekyWeeb/chromebrew/tree/no-pip)
-> - [x] Package `efl` (`libefl`)automated
+> - [x] Package `efl` (`libefl`)
 > - [x] RePackage `curl` for usage with kernel 3.10 - [`curl`](https://github.com/ThatGeekyWeeb/chromebrew/blob/openssl-repack/packages/curl.rb)
 
 - 🌱 I’m currently learning Ruby!
 - :collision: I’m looking to collaborate on, a non-rust-based Spotify client!
 - 📫 How to reach me: Discord!!!!!! -> `@ThatWeeb#6702`
-<!--- 😄 Pronouns: They/Them -->
+- 😄 Pronouns: They/Them
 - ⚡ Fun fact: I use Coreboot!
 - :bookmark: - I like blobmojis better, check them out [here!](https://github.com/C1710/blobmoji)
 - :thinking: - Money shouldn't exist
