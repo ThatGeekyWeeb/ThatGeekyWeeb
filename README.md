@@ -10,9 +10,10 @@
 > - [ ] Package `gnome_boxes`
 > - [ ] Package `enlightment`
 > - [ ] Add dependency search for `templator`
-> - [ ] Create automated package update service from `crew`
-> - [x] Remove `pip` from `python3` - [`no-pip`](https://github.com/ThatGeekyWeeb/chromebrew/tree/no-pip)
-> - [x] Package `efl` (`libefl`)
+> - [ ] Create automated package update service for `crew`
+> - [x] Remove `pip3` from `python3` - [`no-pip`](https://github.com/ThatGeekyWeeb/chromebrew/tree/no-pip)
+> - [x] Package `efl` (`libefl`)automated
+> - [x] RePackage
 
 - 🌱 I’m currently learning Ruby!
 - :collision: I’m looking to collaborate on, a non-rust-based Spotify client!
