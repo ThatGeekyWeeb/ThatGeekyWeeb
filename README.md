@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning Ruby!
 - :collision: I’m looking to collaborate on, a non-rust-based Spotify client!
 - 📫 How to reach me: Discord!!!!!! -> `@ThatWeeb#6702`
-- 😄 Pronouns: They/Them
+<!--- 😄 Pronouns: They/Them -->
 - ⚡ Fun fact: I use Coreboot!
 - :bookmark: - I like blobmojis better, check them out [here!](https://github.com/C1710/blobmoji)
 - :thinking: - Money shouldn't exist
