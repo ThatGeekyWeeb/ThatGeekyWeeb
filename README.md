@@ -7,9 +7,12 @@
 - 📫 How to reach me: Discord!!!!!! -> `@ThatWeeb#6702`
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I use Coreboot!
-- :blob: - I like blobmojis better, check them out [here!](https://github.com/C1710/blobmoji)
+- :bookmark: - I like blobmojis better, check them out [here!](https://github.com/C1710/blobmoji)
 - :thinking: - Money shouldn't exist
   - > Ask me about my world view on Discord! :wink:
+- :cloud_with_rain: - I'll usually clock out at 22:00 - I won't respond to anything other than Discord ping's or reddit messages
+
+For more info, checkout my website > [https://thatgeekyweeb.is-dummy-thi.cc/](https://thatgeekyweeb.is-dummy-thi.cc/)
 
 
 <a href="https://github.com/skycocker/ThatGeekyWeeb/">
