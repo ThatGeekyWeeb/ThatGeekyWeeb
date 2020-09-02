@@ -10,6 +10,7 @@
 > - [ ] Package `gnome_boxes`
 > - [ ] Package `enlightment`
 > - [x] Add dependency search for `templator`
+> - [x] Refine dependency system using array's
 > - [ ] Create automated package update service for `crew`
 > - [x] Remove `pip3` from `python3` - [`no-pip`](https://github.com/ThatGeekyWeeb/chromebrew/tree/no-pip)
 > - [x] Package `efl` (`libefl`)
