@@ -17,6 +17,13 @@
 > - [x] RePackage `curl` for usage with kernel 3.10 - [`curl`](https://github.com/ThatGeekyWeeb/chromebrew/blob/openssl-repack/packages/curl.rb)
 
 - 🌱 I’m currently learning Ruby!
+- > I currently know
+  >  - Shell
+  >  - CSS
+  >  - `html`
+  >  - POSIX sh
+  >  - JS (Small amounts)
+  >  - Python (I used to use python)
 - :collision: I’m looking to collaborate on, a non-rust-based Spotify client!
 - 📫 How to reach me: Discord!!!!!! -> `@ThatWeeb#6702`
 - 😄 Pronouns: They/Them
