@@ -1,5 +1,33 @@
 ### Hi there 👋
-
+***
+#### About Me
+~\
+My names Mia, but all my friends call me Geeky :wink:.  
+My Public username is `"ThatGeekyWeeb"` or `"ThatWeeb"`, but I also go by `"ssfgames13"` on some platforms!\
+My Passion? Seeing the world the way I want to!\
+To put it simply, the world isn't a great place, so I am the change I want to see!\
+~\
+Some random things:\
+I do things because I want to! Not for profit - I dislike the idea of "money"\
+(It's Paper, Plastic or Metal with no actual value)\
+I hate Microsoft! - Yes ik Microsoft owns github - I'll transition to gitlab/gitea someday :shrug:\
+Proprietary things make me triggered!\
+I don't know `C` or `C++` and don't plan to learn them!\
+I love to sleep, but also love to not sleep :shrug:\
+I have a collaborative playlist on Spotify\
+I act like a :cat: sometimes\
+I'm socially akward\
+I have like 0 socials - So don't try to stake me!\
+I have no money, basically always\
+I like markdown styling\
+I use Coreboot\
+I like arrays\
+I never check my email\
+I'm engaged :ring:\
+I like emojis\
+:cloud_with_rain: - I'll usually clock out at 22:00 - I won't respond to anything other than Discord ping's or reddit messages\
+~
+***
 - 🔭 I’m currently working on [Chromebrew](https://github.com/skycocker/chromebrew/)
 > - [x] Repackage `openssl` libraies from system to replace `libressl` - [`openssl-repack`](https://github.com/ThatGeekyWeeb/chromebrew/tree/openssl-repack)
 > - [ ] Package `cava` - Missing kernel module
@@ -24,14 +52,6 @@
   >  - POSIX sh
   >  - JS (Small amounts)
   >  - Python (I used to use python)
-- :collision: I’m looking to collaborate on, a non-rust-based Spotify client!
-- 📫 How to reach me: Discord!!!!!! -> `@ThatWeeb#6702`
-- 😄 Pronouns: They/Them
-- ⚡ Fun fact: I use Coreboot!
-- :bookmark: - I like blobmojis better, check them out [here!](https://github.com/C1710/blobmoji)
-- :thinking: - Money shouldn't exist
-  - > Ask me about my world view on Discord! :wink:
-- :cloud_with_rain: - I'll usually clock out at 22:00 - I won't respond to anything other than Discord ping's or reddit messages
 
 For more info, checkout my website > [https://thatgeekyweeb.is-dummy-thi.cc/](https://thatgeekyweeb.is-dummy-thi.cc/)
 
