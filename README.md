@@ -2,10 +2,13 @@
 ***
 #### About Me
 ~\
-My names Mia, but all my friends call me Geeky :wink:.  
+My names Mia, but all my friends call me Geeky :wink:.\
+I go by `they/them` but I won't be offended if you get it wrong, just try and get it right next time, :wink:\
 My Public username is `"ThatGeekyWeeb"` or `"ThatWeeb"`, but I also go by `"ssfgames13"` on some platforms!\
 My Passion? Seeing the world the way I want to!\
 To put it simply, the world isn't a great place, so I am the change I want to see!\
+I'm a french vanilla latte kinda person :wink:\
+My Favorite thing: My partner!! :heart:\
 ~\
 Some random things:\
 I do things because I want to! Not for profit - I dislike the idea of "money"\
