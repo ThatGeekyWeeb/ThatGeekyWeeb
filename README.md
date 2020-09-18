@@ -26,7 +26,6 @@ I like markdown styling\
 I use Coreboot\
 I like arrays\
 I never check my email\
-I'm engaged :ring:\
 I like emojis\
 :cloud_with_rain: - I'll usually clock out at 22:00 - I won't respond to anything other than Discord ping's or reddit messages\
 ~
