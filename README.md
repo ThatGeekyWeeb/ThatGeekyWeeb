@@ -33,11 +33,11 @@ I like emojis\
 - 🔭 I’m currently working on [Spotbash](https://github.com/thatgeekyweeb/spotbash/)
 
 - > I currently know
-  >  - Shell
+  >  - Shell (`bash`)
   >  - CSS
-  >  - `html`
-  >  - POSIX sh
-  >  - JS (Small amounts)
+  >  - HTML
+  >  - POSIX shell (`dash`)
+  >  - JS + NodeJS
   >  - Python (I used to use python)
 
 For more info, checkout my website > [https://thatgeekyweeb.is-dummy-thi.cc/](https://thatgeekyweeb.is-dummy-thi.cc/)
