@@ -55,6 +55,6 @@ For more info, checkout my website > [https://thatgeekyweeb.is-dummy-thi.cc/](ht
 <a href="https://github.com/skycocker/chromebrew/">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skycocker&repo=Chromebrew&bg_color=100,ffccfd,f593ba&layout=compact&theme=dracula&text_color=9cfff2">
 </a>
-<a href="https://github.com/C1710/blobmoji">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=C1710&repo=blobmoji&bg_color=100,ffccfd,f593ba&layout=compact&theme=dracula&text_color=9cfff2">
+<a href="https://github.com/thatgeekyweeb/sotbash">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thatgeekyweeb&repo=spotbash&bg_color=100,ffccfd,f593ba&layout=compact&theme=dracula&text_color=9cfff2">
 </a>
