@@ -3,19 +3,18 @@
 #### About Me
 ~\
 My names Mia, but all my friends call me Geeky :wink:.\
-I go by `they/them` but I won't be offended if you get it wrong, just try and get it right next time, :wink:\
+I go by `they/them`, but call me whatever, idc really\
 My Public username is `"ThatGeekyWeeb"` or `"ThatWeeb"`, but I also go by `"ssfgames13"` on some platforms!\
 My Passion? Seeing the world the way I want to!\
 To put it simply, the world isn't a great place, so I am the change I want to see!\
 I'm a french vanilla latte kinda person :wink:\
-My Favorite thing: My partner!! :heart:\
 ~\
 Some random things:\
 I do things because I want to! Not for profit - I dislike the idea of "money"\
 (It's Paper, Plastic or Metal with no actual value)\
 I hate Microsoft! - Yes ik Microsoft owns github - I'll transition to gitlab/gitea someday :shrug:\
 Proprietary things make me triggered!\
-I don't know `C` or `C++` and don't plan to learn them!\
+I don't know `C` or `C++` and might leanr them soon:tm:\
 I love to sleep, but also love to not sleep :shrug:\
 I have a collaborative playlist on Spotify\
 I act like a :cat: sometimes\
@@ -27,10 +26,9 @@ I use Coreboot\
 I like arrays\
 I never check my email\
 I like emojis\
-:cloud_with_rain: - I'll usually clock out at 22:00 - I won't respond to anything other than Discord ping's or reddit messages\
 ~
 ***
-- 🔭 I’m currently working on [Spotbash](https://github.com/thatgeekyweeb/spotbash/)
+- 🔭 I’m currently working on [SquidtifyJS](https://github.com/thatgeekyweeb/SquidtifyJS/)
 
 - > I currently know
   >  - Shell (`bash`)
