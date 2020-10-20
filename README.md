@@ -47,6 +47,9 @@ For more info, checkout my website > [https://thatgeekyweeb.is-dummy-thi.cc/](ht
 <a href="https://github.com/ThatGeekyWeeb">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatGeekyWeeb&layout=compact&bg_color=100,ffccfd,f593ba&theme=dracula&text_color=69d7a5">
 </a>
+<a href="https://github.com/skycocker/ThatGeekyWeeb/">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=thatgeekyweeb&column=8&theme=onedark">
+</a>
 
 ***
 
