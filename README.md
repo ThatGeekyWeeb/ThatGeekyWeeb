@@ -1,14 +1,16 @@
+[![Header](https://github.com/ThatGeekyWeeb/Squid-Dots/blob/master/wallpapers/the-blood-is-there.png)](https://github.com/ThatGeekyWeeb/Squid-Dots)
+
 # Hey~
-The names Mia or `☜︎●︎♓︎`, or ThatWeeb.~ I'm a tall (6''3'), transition planning (Male -> Female), \*Nix enthusiast, with a passon for Opensource shit!
- - Currently taken
- - Currntly agender identifying (gendervoid) (Use They/Them with me please)
+The names Mia or `☜︎●︎♓︎`, or ThatWeeb.~ I'm a tall (6''3'), prob future MTF, \*Nix enthusiast, with a passon for Opensource shit!
+ - Currently *not* taken
+ - Currntly agender identifying (gendervoid) (Use `They/Them || She/Her` with me please)
    - Or She/Her
  - Shell scripter
    - Bash and SH
  - Creative geek
  - Discord User
- - Spotify USer
-   - Creator of only <sub>(currently)</sub> working Bash Spotify Controller
+ - Spotify User
+   - Creator of only <sup>(currently)</sup> working Bash Spotify Controller
  - True Degenerate
  - Systemd Hater
  - ChromeOS Porter, (NoChromo)
@@ -16,6 +18,8 @@ The names Mia or `☜︎●︎♓︎`, or ThatWeeb.~ I'm a tall (6''3'), transit
  - Prev Undertale kid
  - Enrolled in School (Grade 11) within Canada
  - 16 Year Old
+ - Markdown styling is cool
+   - But ASCII `README`'s are better!
 
 <a href="https://github.com/ThatGeekyWeeb">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatGeekyWeeb&layout=compact&bg_color=100,ffccfd,f593ba&theme=dracula&text_color=69d7a5">
