@@ -21,6 +21,9 @@ The names Mia or `☜︎●︎♓︎`, or ThatWeeb.~ I'm a tall (6''3'), prob fu
  - Markdown styling is cool
    - But ASCII `README`'s are better!
 
+<noscript><a href="https://liberapay.com/ThatWeeb/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
+
 <a href="https://github.com/ThatGeekyWeeb">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatGeekyWeeb&layout=compact&bg_color=100,ffccfd,f593ba&theme=dracula&text_color=69d7a5">
 </a>
