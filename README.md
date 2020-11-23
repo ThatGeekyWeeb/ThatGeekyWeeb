@@ -1,9 +1,9 @@
 [![Header](https://github.com/ThatGeekyWeeb/Squid-Dots/blob/master/wallpapers/the-blood-is-there.png)](https://github.com/ThatGeekyWeeb/Squid-Dots)
 
 # Hey~
-The names Mia or `☜︎●︎♓︎`, or ThatWeeb.~ I'm a tall (6''3'), prob future MTF, \*Nix enthusiast, with a passon for Opensource shit!
+The names Mia or `☜︎●︎♓︎`, or ThatWeeb.~ I'm a tall (6''3'), future femboy, \*Nix enthusiast, with a passon for Opensource shit!
  - Currently *not* taken
- - Currntly agender identifying (gendervoid) (Use `They/Them || She/Her` with me please)
+ - Currently agender identifying (gendervoid) (Use `They/Them or She/Her` with me please)
    - Or She/Her
  - Shell scripter
    - Bash and SH
