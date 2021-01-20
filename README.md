@@ -1,23 +1,21 @@
 [![Header](https://github.com/ThatGeekyWeeb/Squid-Dots/blob/master/wallpapers/the-blood-is-there.png)](https://github.com/ThatGeekyWeeb/Squid-Dots)
 
 # Hey~
-The names Mia or `☜︎●︎♓︎`, or ThatWeeb.~ I'm a tall (6''3'), future femboy, \*Nix enthusiast, with a passon for Opensource shit!
- - Currently *not* taken
+The names Mia, or ThatWeeb.~ I'm a tall (6"3'), future femboy, \*Nix enthusiast, with a passon for Opensource shit!
  - Currently agender identifying (gendervoid) (Use `They/Them or She/Her` with me please)
    - Or She/Her
  - Shell scripter
    - Bash and SH
  - Creative geek
  - Discord User
- - Spotify User
+ - Prev Spotify User
    - Creator of only <sup>(currently)</sup> working Bash Spotify Controller
  - True Degenerate
  - Systemd Hater
- - ChromeOS Porter, (NoChromo)
+ - Prev Power User Of ChromeOS
  - Prev redditor
  - Prev Undertale kid
- - Enrolled in School (Grade 11) within Canada
- - 16 Year Old
+ - Enrolled in School
  - Markdown styling is cool
    - But ASCII `README`'s are better!
 
