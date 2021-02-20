@@ -22,9 +22,9 @@ The names Mia, or ThatWeeb.~ I'm a tall (6"3'), future femboy, \*Nix enthusiast,
 <noscript><a href="https://liberapay.com/ThatWeeb/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 
-<a href="https://github.com/ThatGeekyWeeb">
+<!-- <a href="https://github.com/ThatGeekyWeeb">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatGeekyWeeb&layout=compact&theme=dracula&text_color=69d7a5">
-</a>
+</a> The api broke --> 
 <a href="https://github.com/ThatGeekyWeeb/">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=thatgeekyweeb&column=8&theme=onedark">
 </a>
