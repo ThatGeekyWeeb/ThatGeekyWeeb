@@ -1,9 +1,11 @@
 [![Header](https://github.com/ThatGeekyWeeb/Squid-Dots/blob/master/wallpapers/the-blood-is-there.png)](https://github.com/ThatGeekyWeeb/Squid-Dots)
 
 # Hey~
-The names Mia, or ThatWeeb.~ I'm a tall (6"3'), future femboy, \*Nix enthusiast, with a passon for Opensource shit!
- - Currently agender identifying (gendervoid) (Use `They/Them or She/Her` with me please)
-   - Or She/Her
+The names Mia, or ThatWeeb.~ I'm a tall (6"3'), fenby, \*Nix enthusiast, with pain in my heart, and love in my brain.  
+My mind is an open book, shall you wish to read. I can barely breathe, I code less than I used to, and hate religious ppl, sorry, not sorry. 
+
+---
+
  - Shell scripter
    - Bash and SH
  - Creative geek
@@ -36,4 +38,3 @@ The names Mia, or ThatWeeb.~ I'm a tall (6"3'), future femboy, \*Nix enthusiast,
 <a href="https://github.com/thatgeekyweeb/spotbash">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thatgeekyweeb&repo=spotbash&layout=compact&theme=dracula&text_color=9cfff2">
 </a>
-
