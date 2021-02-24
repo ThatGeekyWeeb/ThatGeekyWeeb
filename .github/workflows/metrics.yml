@@ -31,5 +31,3 @@ jobs:
           plugin_habits: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_licenses: yes
-          dryrun: yes
