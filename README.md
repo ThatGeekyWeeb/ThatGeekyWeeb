@@ -1,13 +1,10 @@
 <img align="left" alt="Metrics" src="https://github.com/ThatGeekyWeeb/ThatGeekyWeeb/blob/master/github-metrics.svg">
 
-[Discord](https://dsc.bio/thatweeb)  
-[Mastodon](https://mastodon.lol/@ThatGeekyWeeb)
+<sup>🔌 [Discord](https://dsc.bio/thatweeb)  
+[Mastodon](https://mastodon.lol/@ThatGeekyWeeb)<sup>
 
-<a href="https://github.com/thatgeekyweeb/blobash">
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=thatgeekyweeb&repo=blobash&layout=compact&theme=dracula&text_color=9cfff2">
-</a>
-<a href="https://github.com/thatgeekyweeb/spotbash">
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=thatgeekyweeb&repo=spotbash&layout=compact&theme=dracula&text_color=9cfff2">
-</a>
-***
-<noscript><a href="https://liberapay.com/ThatWeeb/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+- [Blobash](https://github.com/thatgeekyweeb/blobash) - POSIX sh Blobmoji CSS generator for Discord.
+- [Spotbash](https://github.com/thatgeekyweeb/Spotbash) - *WIP* Shell-based Spotify controller
+- [JsonPosix](https://github.com/thatgeekyweeb/jp) - *WIP* POSIX sh Json handler based on `jq`
+- [SquidtifyJS](https://github.com/ThatGeekyWeeb/SquidtifyJS) - Personalized version of Spotify's web player - Barely works
+- [miato-dcfs](https://github.com/ThatGeekyWeeb/miato-dcfs) - A Discord 'bot' using [diamondburned's](https://github.com/diamondburned/) fuse discord client
