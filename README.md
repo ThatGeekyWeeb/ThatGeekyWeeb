@@ -1,4 +1,4 @@
-[![Header](https://github.com/ThatGeekyWeeb/Squid-Dots/blob/master/wallpapers/the-blood-is-there.png)](https://github.com/ThatGeekyWeeb/Squid-Dots)
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
 
 # Hey~
 The names Mia, or ThatWeeb.~ I'm a tall (6"3'), fenby, \*Nix enthusiast, with pain in my heart, and love in my brain.  
@@ -22,14 +22,6 @@ My mind is an open book, shall you wish to read. I can barely breathe, I code le
    - But ASCII `README`'s are better!
 
 <noscript><a href="https://liberapay.com/ThatWeeb/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
-
-
-<!-- <a href="https://github.com/ThatGeekyWeeb">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatGeekyWeeb&layout=compact&theme=dracula&text_color=69d7a5">
-</a> The api broke --> 
-<a href="https://github.com/ThatGeekyWeeb/">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=thatgeekyweeb&column=8&theme=onedark">
-</a>
 
 ***
 <a href="https://github.com/thatgeekyweeb/blobash">
