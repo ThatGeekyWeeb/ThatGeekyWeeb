@@ -1,4 +1,4 @@
-![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+![Metrics](https://github.com/ThatGeekyWeeb/ThatGeekyWeeb/blob/master/github-metrics.svg)
 
 # Hey~
 The names Mia, or ThatWeeb.~ I'm a tall (6"3'), fenby, \*Nix enthusiast, with pain in my heart, and love in my brain.  
