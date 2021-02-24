@@ -15,7 +15,6 @@ jobs:
 
           user: thatgeekyweeb
           template: classic
-          base: activity, repositories
           repositories_forks: yes
           config_animated: yes
           config_twemoji: yes
