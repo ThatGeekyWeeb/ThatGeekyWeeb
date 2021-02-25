@@ -16,7 +16,6 @@ jobs:
           user: thatgeekyweeb
           template: repository
           repositories_forks: yes
-          config_animated: yes
           config_twemoji: yes
           config_timezone: Canada/Eastern
           plugin_activity: yes
