@@ -14,12 +14,9 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           user: thatgeekyweeb
-          template: repo
+          template: terminal
           repositories_forks: yes
-          config_twemoji: yes
           config_timezone: Canada/Eastern
           plugin_lines: yes
           plugin_languages: yes
-          plugin_languages_colors: github
           plugin_languages_threshold: 0.2%
-          plugin_followup: yes
