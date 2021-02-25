@@ -14,7 +14,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           user: thatgeekyweeb
-          template: repository
+          template: repo
           repositories_forks: yes
           config_twemoji: yes
           config_timezone: Canada/Eastern
