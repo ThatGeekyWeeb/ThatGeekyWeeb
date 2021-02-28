@@ -14,7 +14,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           user: thatgeekyweeb
-          template: @terminal
+          template: "@terminal"
           setup_community_templates: thatgeekyweeb/metrics@master:terminal
           repositories_forks: yes
           config_timezone: Canada/Eastern
