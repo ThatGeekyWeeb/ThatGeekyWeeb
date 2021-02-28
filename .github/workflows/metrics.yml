@@ -15,7 +15,7 @@ jobs:
 
           user: thatgeekyweeb
           template: "@terminal"
-          setup_community_templates: thatgeekyweeb/metrics@master:terminal
+          setup_community_templates: thatgeekyweeb/metrics@latest:terminal
           repositories_forks: yes
           config_timezone: Canada/Eastern
           plugin_lines: yes
