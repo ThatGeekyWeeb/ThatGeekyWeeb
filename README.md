@@ -1,4 +1,4 @@
-<img align="left" alt="Metrics" src="https://github.com/ThatGeekyWeeb/ThatGeekyWeeb/blob/master/github-metrics.svg">
+<img align="left" alt="Metrics" src="https://cdn.jsdelivr.net/gh/thatgeekyweeb/thatgeekyweeb@master/github-metrics.svg">
 
 <sup>🔌 [Discord](https://dsc.bio/thatweeb)  
 [Mastodon](https://mastodon.lol/@ThatGeekyWeeb)<sup>
