@@ -1,19 +1,26 @@
 <img align="left" alt="Metrics" src="https://raw.githubusercontent.com/ThatGeekyWeeb/ThatGeekyWeeb/master/github-metrics.svg">
 
 <sup>🔌 [Discord](https://dsc.bio/thatweeb)  
-[Mastodon](https://mastodon.lol/@ThatGeekyWeeb)<sup>
+[Fediverse (Pleroma)](https://disqcordia.space/Mia)<sup>
 
 ---
-
-- [dcfs](https://github.com/diamondburned/dcfs) - Discord in a FUSE file system.  
-  - A project full of pain and beauty by [DiamondBurned](https://github.com/diamondburned/)  
-    <sup>- Also currently something I am playing with...  
-  For now, I have a small attention span<sup>
-
+```text
+  _  _             _  _             /\//\/|
+ | \| |_  _ __ _  | \| |_  _ __ _  |/\|/\/ 
+ | .` | || / _` | | .` | || / _` |         
+ |_|\_|\_, \__,_| |_|\_|\_, \__,_|         
+       |__/             |__/                
+```
 ---
 
+- [Spotbash](https://github.com/thatgeekyweeb/Spotbash) - POSIX Spotify controller
+- [Fedish](https://github.com/thatgeekyweeb/Fedish) - POSIX sh fediverse client, because pain
 - [Blobash](https://github.com/thatgeekyweeb/blobash) - POSIX sh Blobmoji CSS generator for Discord.
-- [Spotbash](https://github.com/thatgeekyweeb/Spotbash) - *WIP* Shell-based Spotify controller
-- [JsonPosix](https://github.com/thatgeekyweeb/jp) - *WIP* POSIX sh Json handler based on `jq`
+- [JsonPosix](https://github.com/thatgeekyweeb/jp) - POSIX sh json handler, because I'm insane
 - [SquidtifyJS](https://github.com/ThatGeekyWeeb/SquidtifyJS) - Personalized version of Spotify's web player - Barely works
-- [miato-dcfs](https://github.com/ThatGeekyWeeb/miato-dcfs) - A Discord 'bot' using [diamondburned's](https://github.com/diamondburned/) fuse discord client
+
+---
+  - To Come:
+    - shfire: POSIX sh discord client
+    - basefire: POSIX sh discord storage
+    - discord-fs-arikawa: [discord-fs](https://github.com/jonas747/discord-fs) revival and port to arikawa
