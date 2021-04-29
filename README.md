@@ -22,5 +22,6 @@
 
 ---
   - To Come:
+    - purespot: Almost pure POSIX sh, Replacement for Spotbash
     - basefire: POSIX sh file storage using Discord (using shfire)
     - discord-fs-arikawa: [discord-fs](https://github.com/jonas747/discord-fs) revival and port to arikawa
