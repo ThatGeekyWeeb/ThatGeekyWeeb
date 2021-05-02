@@ -1,4 +1,7 @@
-<img align="left" alt="Metrics" src="https://raw.githubusercontent.com/ThatGeekyWeeb/ThatGeekyWeeb/master/github-metrics.svg">
+<!-- 
+<img align="left" alt="Metrics"> 
+# https://raw.githubusercontent.com/ThatGeekyWeeb/ThatGeekyWeeb/master/github-metrics.svg
+-->
 
 <sup>🔌[Discord](https://dsc.bio/thatweeb)  
 [Fediverse (Pleroma)](https://disqcordia.space/Mia)<sup>
