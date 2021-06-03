@@ -3,7 +3,9 @@
 # https://raw.githubusercontent.com/ThatGeekyWeeb/ThatGeekyWeeb/master/github-metrics.svg
 -->
 
-<sup>🔌[Discord](https://dsc.bio/mianya)  
+<sup>[Discord](https://dsc.bio/mianya) - Inactive...  
+XMPP - mia@disqordia.space  
+Matrix - mia@chat.unix.lgbt  
 [Fediverse (Pleroma)](https://disqcordia.space/Mia)<sup>
 
 ---
@@ -14,7 +16,13 @@ M M M M M M      BBBB  EEE  EEE  PPPP      BBBB  EEE  EEE  PPPP      BBBB  EEE  
 M   M M   M      B   B E    E    P         B   B E    E    P         B   B E    E    P         M   M M   M M   M 
 M   M M   M      BBBB  EEEE EEEE P         BBBB  EEEE EEEE P         BBBB  EEEE EEEE P         M   M M   M M   M 
 ```
-  
+### Langs  
+  - POSIX Shell - Scripting lang of all Unix like OS's, think PowerShell but for Unix like OS's - Extremely portable when done right
+  - HTML - Actual layouts of webpages
+    - CSS - Website style sheets
+    - JavaScript - Scripting lang of webpages
+  - Golang - Googles lang... Used in lots of other peoples projects -Useful for reimplementation in Shell
+### Projects
 ---
 - [Spotbash](https://github.com/thatgeekyweeb/spotbash) - POSIX sh Spotify controller
 - [fediSH](https://github.com/thatgeekyweeb/fedish) - POSIX sh fediverse client, because pain
