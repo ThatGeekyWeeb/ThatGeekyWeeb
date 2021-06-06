@@ -34,7 +34,7 @@ M   M M   M      BBBB  EEEE EEEE P         BBBB  EEEE EEEE P         BBBB  EEEE 
 ---
   - WIP/Maybe to come:
     - [purespot](https://github.com/thatgeekyweeb/purespot): Almost pure POSIX sh, Replacement for Spotbash - WIP/Abandoned?
-    - msh: POSIX sh "audio player" (Via sox) AND controller - Planned?
+    - mush: POSIX sh "audio player" (Via sox) AND controller - Planned?
     - basefire: POSIX sh file storage using Discord (using shfire) - Planned?
     - discord-fs-arikawa: [discord-fs](https://github.com/jonas747/discord-fs) revival and port to arikawa - Planned?
 ---
