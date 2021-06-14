@@ -10,20 +10,22 @@ Matrix - mia@chat.unix.lgbt
 
 ---
 ```text
-M   M M   M      BBBB  EEEE EEEE PPPP      BBBB  EEEE EEEE PPPP      BBBB  EEEE EEEE PPPP      M   M M   M M   M 
-MM MM MM MM      B   B E    E    P   P     B   B E    E    P   P     B   B E    E    P   P     MM MM MM MM MM MM 
-M M M M M M      BBBB  EEE  EEE  PPPP      BBBB  EEE  EEE  PPPP      BBBB  EEE  EEE  PPPP      M M M M M M M M M 
-M   M M   M      B   B E    E    P         B   B E    E    P         B   B E    E    P         M   M M   M M   M 
-M   M M   M      BBBB  EEEE EEEE P         BBBB  EEEE EEEE P         BBBB  EEEE EEEE P         M   M M   M M   M 
+  --
+  ----
+  ------ Nothing here for now..
+  ----
+  --
 ```
+
 ### Langs  
-  - POSIX Shell - Scripting lang of all Unix like OS's, think PowerShell but for Unix like OS's - Extremely portable when done right
+  - POSIX Shell - Extremely portable 
   - HTML - Actual layouts of webpages
     - CSS - Website style sheets
     - JavaScript - Scripting lang of webpages
   - Golang - Googles lang... Used in lots of other peoples projects -Useful for reimplementation in Shell
 ### Projects
 ---
+- [SHapplets](https://github.com/thatgeekyweeb/shapplets) - Pure POSIX sh busybox/coreutils applet replacements - In as few lines as possible - Extremely WIP
 - [Spotbash](https://github.com/thatgeekyweeb/spotbash) - POSIX sh Spotify controller
 - [fediSH](https://github.com/thatgeekyweeb/fedish) - POSIX sh fediverse client, because pain
 - [SHfire](https://github.com/thatgeekyweeb/shfire) - POSIX sh Discord client, in ~100 Lines
