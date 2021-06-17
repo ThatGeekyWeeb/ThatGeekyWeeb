@@ -10,11 +10,20 @@ Matrix - mia@chat.unix.lgbt
 
 ---
 ```text
-  --
-  ----
-  ------ Nothing here for now..
-  ----
-  --
+    ,----..                       ,----..    
+   /   /   \             .---.   /   /   \   
+  /   .     :           /. ./|  /   .     :  
+ .   /   ;.  \      .--'.  ' ; .   /   ;.  \ 
+.   ;   /  ` ;     /__./ \ : |.   ;   /  ` ; 
+;   |  ; \ ; | .--'.  '   \' .;   |  ; \ ; | 
+|   :  | ; | '/___/ \ |    ' '|   :  | ; | ' 
+.   |  ' ' ' :;   \  \;      :.   |  ' ' ' : 
+'   ;  \; /  | \   ;  `      |'   ;  \; /  | 
+ \   \  ',  /   .   \    .\  ; \   \  ',  /  
+  ;   :    /     \   \   ' \ |  ;   :    /   
+   \   \ .'       :   '  |--"    \   \ .'    
+    `---`          \   \ ;        `---`      
+                    '---"                    
 ```
 
 ### Langs  
@@ -25,7 +34,7 @@ Matrix - mia@chat.unix.lgbt
   - Golang - Googles lang... Used in lots of other peoples projects -Useful for reimplementation in Shell
 ### Projects
 ---
-- [SHapplets](https://github.com/thatgeekyweeb/shapplets) - Pure POSIX sh busybox/coreutils applet replacements - In as few lines as possible - Extremely WIP
+- [SHapplet](https://github.com/thatgeekyweeb/shapplet) - Pure POSIX sh busybox/coreutils applet replacements - In as few lines as possible - Extremely WIP
 - [Spotbash](https://github.com/thatgeekyweeb/spotbash) - POSIX sh Spotify controller
 - [fediSH](https://github.com/thatgeekyweeb/fedish) - POSIX sh fediverse client, because pain
 - [SHfire](https://github.com/thatgeekyweeb/shfire) - POSIX sh Discord client, in ~100 Lines
@@ -33,6 +42,7 @@ Matrix - mia@chat.unix.lgbt
 - [JsonPosix](https://github.com/thatgeekyweeb/jp) - POSIX sh json handler, because I'm insane
 - [SquidtifyJS](https://github.com/ThatGeekyWeeb/SquidtifyJS) - Personalized version of Spotify's web player
 - [RIPdocomo](https://github.com/ThatGeekyWeeb/RIPdocomo) - "Archival" RIP of the pngs for docomo 1999-2013 found on emojipedia - Likely Copyright infringementh uwu
+  - [RIPau](https://github.com/ThatGeekyWeeb/RIPau) - au-kddi version from 1999-2012
 ---
   - WIP/Maybe to come:
     - [purespot](https://github.com/thatgeekyweeb/purespot): Almost pure POSIX sh, Replacement for Spotbash - WIP/Abandoned?
