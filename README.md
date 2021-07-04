@@ -29,7 +29,8 @@ __/\\\\\\\\\\\\\\\____________________/\\\\\\\\\\\\\\\_
   - Golang - Googles lang... Used in lots of other peoples projects -Useful for reimplementation in Shell
 ### Projects
 ---
-- [SHapplet](https://github.com/thatgeekyweeb/shapplet) - Pure POSIX sh busybox/coreutils applet replacements - In as few lines as possible - Extremely WIP
+- [pSH](https://github.com/thatgeekyweeb/psh) - Mostly Pure POSIX sh sourceable script to replace utils with puresh replacements as functions
+- [SHapplet](https://github.com/thatgeekyweeb/shapplet) - Pure POSIX sh busybox/coreutils applet replacements - In as few lines as possible
 - [Spotbash](https://github.com/thatgeekyweeb/spotbash) - POSIX sh Spotify controller
 - [fediSH](https://github.com/thatgeekyweeb/fedish) - POSIX sh fediverse client, because pain
 - [SHfire](https://github.com/thatgeekyweeb/shfire) - POSIX sh Discord client, in ~100 Lines
